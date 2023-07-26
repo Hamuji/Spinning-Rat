@@ -1,0 +1,4 @@
+#Wed Jul 19 03:57:14 SGT 2023
+base.0=C\:\\Users\\HP\\Desktop\\HAMZY\\Unity\\Spinning Rat\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
